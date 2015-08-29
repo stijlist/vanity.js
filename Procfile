@@ -1,1 +1,1 @@
-web: node vanity.js
+web: node server.js
